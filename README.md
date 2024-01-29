@@ -25,7 +25,7 @@ To get started with this React application, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/CosmoStarPL/contacts)
    ```
 
 2. Install dependencies:
